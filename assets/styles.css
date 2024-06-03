@@ -1,0 +1,71 @@
+@charset "utf-8";
+/* CSS Document */	
+
+
+	
+
+h1{
+	margin-top:1rem;
+	color:#B14A4C;
+	font-size:4rem;
+	font-family:STXingkai;
+	font-weight:bold;
+	text-align: center;
+	
+
+}
+h2{
+	font-size:2rem;
+	font-weight:900;
+	font-family:YouYuan,STHupo,STXingkai;
+	margin-left:1rem;
+	
+
+}
+.a{color:#D8AFCD;}
+.b{color:#72A965;}
+.f{color:#82C4D0;}
+.d{color:#F1DC1A;}
+.e{color:#CE5423;}
+.tableauPlaceholder1{
+	
+	display:flex;
+	width: 100%;
+	display:inline-block;
+	margin-left:7.5rem;
+}
+li{
+	font-size:1.2rem;
+	font-weight: bold;
+	color: #534A4A;
+}
+.tableauPlaceholder2{
+	display:flex;
+	margin-left:7.5rem;
+	
+}
+.tableauPlaceholder3{
+	display:flex;
+	margin-left:18rem;
+}
+.tableauPlaceholder4{
+	display:flex;
+	margin-left:20rem;
+	
+}
+li+li{
+	margin-top:2rem;
+}
+.c{
+	color:#993366;
+	font-size:1.5rem;
+	font-weight:bold;
+}
+
+strong{
+	color:#FF6666;
+}
+hr{
+background-color: #AF5382;
+    height: 2px;
+	border: none;}
